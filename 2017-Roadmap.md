@@ -1,5 +1,37 @@
 # Metasploit's 2017 Roadmap testube
 
+Introduction
+============
+
+The IntSights External Threat Protection Suite (ETP Suite) delivers proactive defense by transforming threat intelligence into automated security action. It monitors your external threat profile, aggregates and analyzes tens of thousands of threats, and automates the risk mitigation life cycle.
+
+The IntSights ETP Suite leverages ground-breaking data-mining algorithms and unique cyber reconnaissance capabilities to continuously scan the surface, deep, and dark web to deliver actionable, contextual reconnaissance about potential threats to your organization, employees, executives, and board members. It seamlessly integrates with your existing security solutions to eliminate operational vulnerabilities, secure data, and protect resources.
+
+The IntSights ETP Suite includes the following modules:
+
+* **[Threat Command](/articles/project-intsights-external-threat-protection-suite/threat-command-quick-start)**  
+    IntSights monitors tens of thousands of sources across the surface, deep, and dark web to deliver tailored threat intelligence based on your organization’s unique digital assets.
+* **[TIP](/articles/project-intsights-external-threat-protection-suite/tip-quick-start)** (Threat Intelligence Platform)  
+    IntSights aggregates threat feeds and prioritizes IOCs in a single threat-management platform for accelerated triage, prioritization, response, and remediation.  
+* **[Vulnerability Risk Analyzer](/articles/project-intsights-external-threat-protection-suite/vulnerability-risk-analyzer)**  
+    IntSights provides an enriched view of Common Vulnerabilities and Exposures (CVEs). Using IntSights intelligence data from the clear, deep, and dark web, the ETP prioritizes CVE data so you can focus on those CVEs that are most relevant to your business.  
+    
+* **[Automation](/articles/project-intsights-external-threat-protection-suite/threat-orchestration-module)**  
+    IntSights streamlines the threat remediation process by integrating with existing security solutions to automate threat blocking and accelerate the threat takedown process for external threats.
+* **[Threat Third Party](/articles/project-intsights-external-threat-protection-suite/threat-third-party)** (TTP)  
+    IntSights enables you to extend tailored threat intelligence to third-party organizations, helping you identify threats targeting third parties and understand how those threats pose a risk to your organization.
+* [IntSights Extend Browser Extension](/articles/project-intsights-external-threat-protection-suite/intsights-extend-browser-extension)  
+    Extend brings the power of the IntSights ETP Suite to your desktop. By using Extend on any web page, you can view indicators and CVEs on that web page.
+* [IntSights Phishing Watch](/articles/project-intsights-external-threat-protection-suite/intsights-phishing-beacon)  
+    The IntSights Phishing Watch helps your organization identify attacks before phishing websites emerge attempting to redirect legitimate users from your official site.  
+    
+
+Many of these modules support multi-tenant threat management. For more information, see [Multi-Tenant Threat Management](/articles/project-intsights-external-threat-protection-suite/multi-tenant-threat-management).
+
+You can read this guide from "cover-to-cover," or you can get started immediately with the section that interests you.
+
+Before you begin, ensure that you have registered as a user with the IntSights ETP Suite, as described in [Getting Started](/articles/project-intsights-external-threat-protection-suite/first-time-user-registration).
+
 Starting in 2017, we will provide an open roadmap for setting our goals for the year. The goals are based on many discussions we have had over the past year with users, developers, and customers. The intent is to provide focus for core developers and contributors alike, so that we can together work toward a common vision for how we want Metasploit to evolve.
 
 This year, the themes for Metasploit are modularity, reusability, and reliability.
